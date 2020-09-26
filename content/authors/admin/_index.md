@@ -21,15 +21,15 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Science
+- Machine Learning
+- Mathematics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: Associate's in Computer Science
+    institution: El Camino College
+    year: 2019 - 2021
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
